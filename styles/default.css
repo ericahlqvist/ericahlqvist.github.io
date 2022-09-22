@@ -31,7 +31,7 @@ abbr, acronym, span.abbr {border-bottom: 1px dotted black; cursor: help;}
 
 
 /* Header */
-.header {width: 900px; height: 120px; margin: 0 auto; position: relative; text-align: left; background-color: #A1B19E;}
+.header {width: 900px; height: 120px; margin: 0 auto; position: relative; text-align: left; background-color: #9eaab1;}
 
 
 /* Headings */
@@ -52,7 +52,7 @@ p#backlinks a:hover {color: #151515;}
 
 
 /* Page */
-.page {width: 900px; margin: 0 auto; text-align: left; background: #A1B19E;}
+.page {width: 900px; margin: 0 auto; text-align: left; background: #9eaab1;}
 .col-l {float: left; width: 23%; background-color: #DDECF1; border-top: 1px solid #578B9E;}
 .col-r {float: right; width: 88%;}
 .col-l-in {margin: 0 0 0 0;} .col-r-in {margin: 1.2em 2em 2em 1.2em;}
@@ -75,12 +75,12 @@ p#backlinks a:hover {color: #151515;}
 
 
 /* Menu */
-#menu-box {width: 50%; position: absolute; right: 0; bottom: 0; background-color: #A1B19E; border: 0px solid #A1B19E; border-right: 0;}
+#menu-box {width: 50%; position: absolute; right: 0; bottom: 0; background-color: #9eaab1; border: 0px solid #847799; border-right: 0;}
 ul#web {list-style: none; text-align: right; margin-right: 0;}
 ul#web li {display: inline; color: #000000;}
 ul#web li a#first {border-left: 0px solid #000000;}
 ul#web li a, ul#web li a:visited {float: right; display: block; color: #000000; padding: 10px 26px; border-right: 0px solid #000000;}
-ul#web li a:hover {text-decoration: none; background-color: #FFFF00;}
+ul#web li a:hover {text-decoration: none; background-color: #e6e6a0;}
 ul#web li a.active {background: black !important;}
 
 ul.menu {list-style: square; list-style-position: inside; margin: 8px 0 12px 16px;}
