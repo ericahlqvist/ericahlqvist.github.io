@@ -54,7 +54,7 @@ p#backlinks a:hover {color: #151515;}
 /* Page */
 .page {width: 900px; margin: 0 auto; text-align: left; background: #9eaab1;}
 .col-l {float: left; width: 23%; background-color: #DDECF1; border-top: 1px solid #578B9E;}
-.col-r {float: right; width: 88%;}
+.col-r {float: right; width: 100%;}
 .col-l-in {margin: 0 0 0 0;} .col-r-in {margin: 1.2em 2em 2em 1.2em;}
 .page a:link, .page a:visited {color: #000000; font-weight: normal;}
 
