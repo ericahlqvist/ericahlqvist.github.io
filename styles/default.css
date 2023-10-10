@@ -75,7 +75,7 @@ p#backlinks a:hover {color: #151515;}
 
 
 /* Menu */
-#menu-box {width: 50%; position: absolute; right: 0; bottom: 0; background-color: #9eaab1; border: 0px solid #847799; border-right: 0;}
+#menu-box {width: 101%; position: absolute; right: 0; bottom: 0; background-color: #9eaab1; border: 0px solid #847799; border-right: 0;}
 ul#web {list-style: none; text-align: right; margin-right: 0;}
 ul#web li {display: inline; color: #000000;}
 ul#web li a#first {border-left: 0px solid #000000;}
