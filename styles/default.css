@@ -10,7 +10,7 @@ body {
 	text-align: center;
 	font: 1.2em Verdana, Arial, Helvetica, sans-serif;
 	position: relative;
-	width: 900px; min-width: 900px;
+	width: 1000px; min-width: 1000px;
 	margin: 0 auto;
 	padding-bottom: 60px;
 }
@@ -31,7 +31,7 @@ abbr, acronym, span.abbr {border-bottom: 1px dotted black; cursor: help;}
 
 
 /* Header */
-.header {width: 900px; height: 120px; margin: 0 auto; position: relative; text-align: left; background-color: #9eaab1;}
+.header {width: 1000px; height: 120px; margin: 0 auto; position: relative; text-align: left; background-color: #9eaab1;}
 
 
 /* Headings */
@@ -52,7 +52,7 @@ p#backlinks a:hover {color: #151515;}
 
 
 /* Page */
-.page {width: 900px; margin: 0 auto; text-align: left; background: #9eaab1;}
+.page {width: 1000px; margin: 0 auto; text-align: left; background: #9eaab1;}
 .col-l {float: left; width: 23%; background-color: #DDECF1; border-top: 1px solid #578B9E;}
 .col-r {float: right; width: 100%;}
 .col-l-in {margin: 0 0 0 0;} .col-r-in {margin: 1.2em 2em 2em 1.2em;}
@@ -75,7 +75,7 @@ p#backlinks a:hover {color: #151515;}
 
 
 /* Menu */
-#menu-box {width: 101%; position: absolute; right: 0; bottom: 0; background-color: #9eaab1; border: 0px solid #847799; border-right: 0;}
+#menu-box {width: 101%; position: absolute; top: 20pt; right: 0; bottom: 0; background-color: #9eaab1; border: 0px solid #847799; border-right: 0;}
 ul#web {list-style: none; text-align: right; margin-right: 0;}
 ul#web li {display: inline; color: #000000;}
 ul#web li a#first {border-left: 0px solid #000000;}
