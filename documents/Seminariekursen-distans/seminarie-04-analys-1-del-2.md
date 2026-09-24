@@ -374,7 +374,7 @@ Horisontell eller sned: $y =$ `[svar 2]`.
 ## Problem 25
 
 Bestäm alla asymptoter till grafen
-$\displaystyle y = \frac{x}{{| x^{2} - 9 |}}.$
+$\displaystyle y = \frac{x}{ {| x^{2} - 9 |}}.$
 
 **Lösning:**
 

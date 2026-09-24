@@ -378,7 +378,7 @@ $x=$`[svar 1]`
 
 ## Problem 21
 
-Beräkna summan ${}^{4} \log (16^{2})+1296^{{}^{6} \log (5)}$. Svaret får inte innehålla logaritmer.
+Beräkna summan ${}^{4} \log (16^{2})+1296^{ {}^{6} \log (5)}$. Svaret får inte innehålla logaritmer.
 
 **Lösning:**
 
